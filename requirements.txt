@@ -4,7 +4,6 @@ google-generativeai
 langchain
 langchain-community
 langchain-huggingface
-sentence-transformers
 faiss-cpu
-PyPDF2
-protobuf
+sentence-transformers
+pypdf
